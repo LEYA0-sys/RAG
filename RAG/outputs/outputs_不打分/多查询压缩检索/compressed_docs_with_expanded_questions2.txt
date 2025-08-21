@@ -1,0 +1,446 @@
+生成的拓展问题:
+1. 版本一：您对投资型保险了解多少？想要了解不同种类的保险产品吗？
+2. 版本二：您是否在寻找保障类保险，比如医疗保险或者人寿保险？还是有其他特殊的保险需求？
+3. 版本三：您希望通过购买保险来应对哪些潜在风险？例如财产损失、疾病、意外伤害等。
+
+检索结果:
+
+===========结果1==========:
+内容: a) 在客户可以行使"备用保障权益"前1个月，公司会向客户发送邀请信重申保障权益。
+b) 客户可以选择另一份最相近的危疾保障或附加保障来行使"备用保障权益"。
+c) 可以购买的用于投保的危疾产品类型。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'f0740402-474e-404c-9d75-efa4d72a2017'}
+
+===========结果2==========:
+内容: 從提供的上下文中，提取以下與問題相关的部分：
+
+1. 您想要了解哪些类型的保险产品？（這段是問題表述，并非抽取內容）
+
+2. 关于填写特定申请表格的指导或表格列表，例如ManuTouch获取报价的表格。
+
+3. 有关体检和财务核保要求的信息，如一般体检要求以及可能需要提供进一步体检的情况。
+
+4. 核保部提出的要求示例，如若受保人投保总额超过某个金额，需填写特定问卷（表格U01）。
+
+这些部分都与回答问题相关，并且提供了保险产品类型、申请表格指导、体检和财务核保要求等信息。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '637e6b46-626e-442d-84ae-ab12277a6446'}
+
+===========结果3==========:
+内容: 附加保障条款（如适用）
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保單條款_2024_04.md', 'source_file': '宏摯傳承保單條款_2024_04.md', 'uuid': 'cd50dcf8-4c09-4558-9d92-e845419a7366'}
+
+===========结果4==========:
+内容: The context provided includes information about insurance coverage related to experimental and unconventional medical treatments. Here's the extracted part that is relevant to answer the question:
+
+(v) 受保人接受實驗及／或非主流醫療技術／程序／治療
+
+This part indicates that the context refers to insurance coverage for patients undergoing experimental or non-conventional medical treatments.
+元数据: {'source': 'D:/desktop/code/data\\守护无间危疾保 保单条款_2022_07.md', 'source_file': '守护无间危疾保 保单条款_2022_07.md', 'uuid': '63d57963-b0d2-4bc7-9859-cb468c55c060'}
+
+===========结果5==========:
+内容: The context provided seems to be discussing various types of insurance products, including medical services and related insurance policies. Key terms in the context are:
+
+- "醫生" (Doctor) - referring to registered doctors providing healthcare services.
+- "生活守護保障" - a type of insurance that offers protection against various life events.
+- "早期危疾" and "晚期護理" - specific types of illnesses or medical treatments that fall under the coverage provided by such insurance policies.
+
+If your question is related to understanding these specific types of insurance, then the extracted parts would be useful. However, if the question pertains to general advice on choosing insurance products or their applicability in a certain situation, the context as provided would not directly answer the question.
+元数据: {'source': 'D:/desktop/code/data\\守护无间危疾保 保单条款_2022_07.md', 'source_file': '守护无间危疾保 保单条款_2022_07.md', 'uuid': 'f9fd66dd-5479-406c-b8f8-45f4663b5080'}
+
+===========结果6==========:
+内容: b) 遞增保額及完全傷殘豁免权益（如有）的基本保費以受保人當時的年齡計算；年度化按期保費將按同一金額調高。
+
+这段文字是关于保险产品的描述，特别是提到"遞增保額"和相关的权益计算方式。这些内容对于回答关于保险类型的问题是有帮助的。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'ee8b98eb-ddae-4c91-8752-dc9b6de9b0ba'}
+
+===========结果7==========:
+内容: # 16. 收款方式选择
+除可选择整笔领取款项外，也可要求以其他方式领取任何因受保人身故或保单完全退保的利益金额。
+
+请向本公司查询有关以年金或积存方式处理款项的条款和细则。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保單條款_2024_04.md', 'source_file': '宏摯傳承保單條款_2024_04.md', 'uuid': 'c0bacbba-045d-44ea-a58e-b10ab2b99eb5'}
+
+===========结果8==========:
+内容: The provided context is from a section detailing different types of insurance products and their corresponding chapters. The extracted relevant parts are:
+
+1. Chapter titles related to severe diseases claims, flexible annuity plans, cancer treatments, child附加保障, female-specific plans, and various claim procedures and timelines.
+2.附注信息, such as requirements for commercial customers' identity proofs, electronic payment services for理赔金提取, and additional details.
+
+These parts are crucial for understanding the types of insurance products covered in the context and any relevant regulations or services.
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_理赔_2024_01.md', 'source_file': '电子行政运作手册_理赔_2024_01.md', 'uuid': '5702f9d1-4188-4b12-9632-8bc5003f3382'}
+
+===========结果9==========:
+内容: The context provided does not contain any specific information about the types of insurance products someone might be interested in. The context is detailed regarding various aspects related to insurance, such as requirements for replacing an insurance advisor, accessing customer records, and付款 methods.
+
+If a person was asking about general types of insurance, they would need to look for information that directly addresses coverage options like health, auto, life, home insurance, and more. 
+
+Since no specific question about保险 product types is given in the context, the only relevant part is the general information about various aspects related to insurance.
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '1c1eefb7-8dd6-4bf4-a033-b6decc19b545'}
+
+===========结果10==========:
+内容: 1. 您可以選擇了解不同类型的家庭保险产品，特别是关于财富传承和增值服务的计划。
+
+2. 在这个计划中，您可以选择将受保人更改为另一名亲密家庭成员，例如子女。
+
+3. 同时，提供了多种灵活的增值服务来确保您的财富能够代代相传。
+
+4. 如果现任受保人突然身故，后備受保人可以成为新受保人，保單将继续生效并保留所有利益。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '76aca3d7-6ccd-4159-a265-bdb2f178bdff'}
+
+===========结果11==========:
+内容: 1. 类型的保险产品：您想要了解政府债券及企业债券，以及公募股票、私募股票和房地產等非固定收入资产的保险产品。
+
+2. 资产货币与保单货币的关系：当债券及其他固定收益资产的资产货币与保单货币不相同时，会利用货币对冲来抵消汇率波动的影响。
+
+3. 分红实现率：这部分内容提到了分红实现率，但具体数值未给出，因此这部分信息不足以直接回答您的问题。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '6c680130-b799-49f3-8cdc-fa7d591ccc3d'}
+
+===========结果12==========:
+内容: 1. 非保證入息／已鎖定終期紅利保留方式：「您可把所得非保證入息／已鎖定終期紅利保留於本公司積存生息。」
+
+2. 信贷風險说明：「任何已繳付的保費會成為宏利資產的一部分。因此，您將承受本公司的信貸風險。」
+
+3. 貨幣風險描述：（这部分在提供的上下文中没有明确提到，所以无法提取）
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'de5e1ae6-e2a8-48cc-8539-4b8d7fb39098'}
+
+===========结果13==========:
+内容: ```markdown
+- 複雜手術表
+- 59 種複雜手術
+- 必须由專科醫生确认的手術服务
+```
+
+These parts of the context are relevant to answer the question about understanding different types of insurance products, specifically in relation to complex surgeries.
+元数据: {'source': 'D:/desktop/code/data\\守护无间危疾保 保单条款_2022_07.md', 'source_file': '守护无间危疾保 保单条款_2022_07.md', 'uuid': '2199378a-8871-4989-bf6f-a7193f8fa275'}
+
+===========结果14==========:
+内容: - 保单持有人指派受益人时，须以本公司指定格式提供受益人的姓名和其他识别身份的资料。
+- 其他条款除本保单或受益人指定书另有规定外，一律适用。
+
+These extracts are relevant to the question as they discuss the process of assigning beneficiaries in an insurance context, and mention that certain terms apply unless specified otherwise.
+元数据: {'source': 'D:\\desktop\\code\\data\\宏利環球貨幣保障計劃 保單條款_2022_05.md', 'uuid': '4d14b095-0151-427c-98b7-50ddfc58c53a'}
+
+===========结果15==========:
+内容: 1. 保单持有人指派受益人时，须以本公司指定格式提供受益人的姓名和其他识别身份的信息。
+2. 除了特别规定，所有条款都适用于受益人指定书的生效情况。
+
+These parts of the context are relevant to answer the question about understanding types of insurance products.
+元数据: {'source': 'D:/desktop/code/data\\宏利環球貨幣保障計劃 保單條款_2022_05.md', 'source_file': '宏利環球貨幣保障計劃 保單條款_2022_05.md', 'uuid': '58cb6b3e-4db6-4eb6-b81e-77a39b653c31'}
+
+===========结果16==========:
+内容: The context provided does not contain specific information about保险 products to be understood. However, the text is a part of insurance policy general terms, discussing topics such as '入息支付方式' and mentioning that it's not a standalone part but refers to certain aspects of the policy.
+
+If you are looking for types of insurance products to understand, you might need to refer to a specific insurance policy or consult with an insurance agent.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保單條款_2024_04.md', 'source_file': '宏摯傳承保單條款_2024_04.md', 'uuid': 'ff9318a4-b36b-4da4-b5ed-988e83188554'}
+
+===========结果17==========:
+内容: The context provided contains information about various types of insurance products, specifically mentioning options for paying death compensation. It also discusses the flexibility in wealth传承 by allowing nomination of a family member as the policy's successor.
+
+To answer the question:
+
+1. The user wants to know about different types of insurance products, particularly those related to death compensation payments.
+
+2. Context details various payment options for death benefits, such as one-time payment,分期支付,或按照固定比例逐年递增。
+
+3. It also mentions the flexibility in wealth inheritance by allowing a family member to be designated as the policy's successor.
+
+Therefore, the extracted relevant parts are related to different payment options for death compensation and the flexibility in passing on insurance policies to family members.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'd743f5d7-1eaa-425b-9aea-6f17b698d89b'}
+
+===========结果18==========:
+内容: Ted, a 55-year-old entrepreneur, is seeking a savings insurance plan to diversify his investments and establish a stable retirement income. He also plans to pass on his wealth to his son Toby.
+
+To achieve this, Ted considers a long-term wealth growth potential when selecting an insurance plan. As a result, he decides to投保 the '宏摯傳承保障計劃' (Referenced in note 22 and 5).
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '499e1cab-f651-4dde-afdd-893cd291284c'}
+
+===========结果19==========:
+内容: 1. 您想要了解的手术保险产品类型。
+2. 如果治疗计划或手术在住院期间有任何变化，应尽快通知保险公司以便重新审查和安排。
+
+出院时，保单持有人/受保人需要做的事情：
+- 确认已按照医生的指示妥善处理出院事宜。
+- 将出院相关文件（如病历、费用清单等）保存好，并可能需要提供这些文件给保险公司进行后续理赔。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_理赔_2024_01.md', 'source_file': '电子行政运作手册_理赔_2024_01.md', 'uuid': '0f3fc778-894c-4f96-b5df-c5c0f8377064'}
+
+===========结果20==========:
+内容: h) 就「伴我⾏」醫護儲備」而言，當剩餘醫護儲備╱退休醫護儲備少於指定最低儲備時不可增加附加保障。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'ec8e989b-87c3-465c-953e-42fc0e7b9157'}
+
+===========结果21==========:
+内容: 保险产品能带来的收益主要是固定收入部分，如债券投资。对于非固定收入资产，如股票和房地产等，投资者可以从多样的投资中受益，但实际投资组合会根据市场时机而变化。
+
+投资策略可能根据市场情况和经济前景调整。如果投资策略发生重大变化，保险公司会告知相关变更、原因以及对保单的影响。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '6c680130-b799-49f3-8cdc-fa7d591ccc3d'}
+
+===========结果22==========:
+内容: 保险产品能带来的收益主要包括非保证入息，这通常来源于终期红利，而终期红利的金额受相关投资表现影响，因此相对波动较大。
+
+可能影响投资回报和最终红利的因素包括但不限于：理賠经验、投资回报（如利息收入、红利收入）以及市场风险等。这些因素可能会导致投资者实际收益低于预期。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'e3c02d06-6675-4fd1-a050-4d5997e2b6d7'}
+
+===========结果23==========:
+内容: 1. **分紅計劃理念**：保险公司提供分红计划，旨在向保单持有人提供有竞争力的长期回报。
+
+2. **损益分配原则**：相对于最佳估计算法，实际开销超出预期时，股东将承担所有支出损失。
+
+3. **直接相关支出定义**：直接与保单相关的支出包括佣金、核保产生的费用等。
+
+4. **间接开销分类**：间接开销指的是与产品组合类别相关的间间接支，例如一般行政费用。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '187b5934-cd5c-412f-aa41-159fd2566aa9'}
+
+===========结果24==========:
+内容: 您可把所得非保證入息／已鎖定終期紅利保留於本公司積存生息。因此，您將承受本公司的信贷風險。本公司的財政狀況或會影響其履行保單的責任的能力。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'de5e1ae6-e2a8-48cc-8539-4b8d7fb39098'}
+
+===========结果25==========:
+内容: 保险产品能带来的收益包括预先保障、获取备用资金等。在投资者的角度来看，这些保障和收益可以看作是投资的潜在回报。
+
+然而，如果进行部分退保提取现金价值，那么保单的价值及随后的收益将会减少。这一点对于未来的财务规划可能会产生影响。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'f7dd5a9d-8bf6-4883-91b8-f7d1164bdd68'}
+
+===========结果26==========:
+内容: 保险产品能带来终止单一派发的收益。终期红利金额受相关投资影响，可能会上升或下跌。该计划允许保单持有人灵活提取现金以满足不同目标的需求。在无需退保的情况下，通过现倵选择提取现金。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '7cd43e5a-f582-451a-a032-e33159323791'}
+
+===========结果27==========:
+内容: 保险产品能带来的收益是投资者关心的问题。通过选择将终期红利锁定的选项，投保人有机会积累这些未来现金红利，并可能赚取利息。
+
+但需要注意的是，如果已经开始了现转变销选项，那么投保人将无法更改至其他选项。并且，若需要更改权益，应在第一个保单周年日后的特定日期进行操作。
+
+综上所述，保险产品能带来潜在收益，包括终期红利的积累和可能的利息收入。但具体的权益变更需遵循相关规定及时间限制。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '2597cb8c-526f-4492-8540-f40bf36e7d60'}
+
+===========结果28==========:
+内容: 终期红利锁定权益 - 按您需要自订提取
+
+此选项允许您决定提取时间及提取金额，帮助您更容易实现理财目标。
+
+提取时间及金额可于第5个保单周年日或其后每个保单周年日（终期红利锁定周年日）选择，但有特定百分比限制：
+
+• 从第5至第9个保单周年日的每个保单年度，终期红利锁定总百分比不得超过 $10\%$。
+• 在任何连续5个保单年度内，终期红利锁定总百分比不得超过 $50\%$。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'e248253e-4201-42ac-9b84-2065631ccdfa'}
+
+===========结果29==========:
+内容: "保单持有人指派受益人时，须以本公司指定格式（以本公司提供的申请表或其他表格）向本公司提供受益人的姓名和其他有助识别身份的资料。"
+
+These parts of the context are relevant to the question as they discuss the process of assigning a beneficiary in an insurance policy. This information is directly related to understanding if insurance products can bring收益 for investors.
+元数据: {'source': 'D:\\desktop\\code\\data\\宏利環球貨幣保障計劃 保單條款_2022_05.md', 'uuid': '4d14b095-0151-427c-98b7-50ddfc58c53a'}
+
+===========结果30==========:
+内容: "保单持有人指派受益人时，须以本公司指定格式向本公司提供受益人的姓名和其他有助识别身份的资料。"
+
+These parts of the context are relevant to answer the question about insurance product benefits for investors. They discuss the process of assigning beneficiaries in a policy, which is directly related to potential returns for investors through the policy's performance.
+元数据: {'source': 'D:/desktop/code/data\\宏利環球貨幣保障計劃 保單條款_2022_05.md', 'source_file': '宏利環球貨幣保障計劃 保單條款_2022_05.md', 'uuid': '58cb6b3e-4db6-4eb6-b81e-77a39b653c31'}
+
+===========结果31==========:
+内容: a) 遞增投資權益為「宏利精選投資保」獨有之保單權益，預期保費於保單週年日會按照所指定之百分比遞增。
+
+b) 遞增投資權益通知書會於保單週年日 45 天前寄予有關客戶，通知書會列出有關預期保費之金額及生效日期。
+
+这些信息表明投资者可以通过递增投资权益在保险产品中获得保费逐年增长的收益。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '89305c5e-498c-45d2-a4b2-9ff359346ac3'}
+
+===========结果32==========:
+内容: a) 於可執行「備用保障權益」前1個月，公司會向客戶發出邀請信重申有關之保障權益。
+b) 客戶可購買另一份可供行使「備用保障權益」而最相近的危疾保障╱附加保障。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'f0740402-474e-404c-9d75-efa4d72a2017'}
+
+===========结果33==========:
+内容: 2. 如果您是投资者，想知道的是保险产品能带来什么收益吗？
+
+上述内容涉及到投资者对于保险产品收益的关注点。如果需要更具体的信息来回答如何通过保险产品获得收益，可以从以下上下文中提取信息：
+
+- 保险产品的种类及其特性，如定期寿险、投资型保险等；
+- 投资型保险的回报机制，包括分红、现金价值增值、复利等方式；
+- 风险与收益的关系，保险产品通常能通过分散风险来提供稳定收益。
+
+如果您需要针对特定保险产品或类型的详细解答，请提供更多的上下文信息。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'bc09b24d-7cc9-40db-9e44-2270b80c8e4f'}
+
+===========结果34==========:
+内容: g) 有關規定：  
+- 更改保單申請表（表格T02）  
+- 保單復效申請╱受保資格声明（表格U36）  
+- 需付保費（如適用者）  
+- 按期保費差額（若增加後，原先的按期保費低於新的最低按期保費規定）  
+h) 更改保單批註及相关文件获取：  
+- 更改保單批註及理財需要分析、風險承擔能力問卷及重要資料声明书及投保人声明书投资相連壽險計劃  (投資相連壽險)保單的副本（如適用）。  
+
+# 2.19  通脹加保權益  
+
+# 取消  / 終止傳統保單基本計劃通脹加保權益  (韭危疾保障)
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'bdd04152-1790-40b7-8450-87cc1e24612c'}
+
+===========结果35==========:
+内容: b) 遞增保額及完全傷残豁免权益（如有）的基本保費以受保人當時的年齡計算；年度化按期保費將按同一金額調高。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'ee8b98eb-ddae-4c91-8752-dc9b6de9b0ba'}
+
+===========结果36==========:
+内容: • 行使貨幣轉換權益後的保證現金價值、非保證終期紅利及非保證入息（如有）之金額將被調整（較高或較低），且調整幅度可能十分顯著。若您於保費繳付期內行使貨幣轉換权益，任何未來保費會被調整。
+
+• 如新計劃並未提供該附加保障或於新保單貨幣下未能提供該附加保障，該附加保障將被終止。
+
+這些内容与投资者想知道的保险产品能带来什么收益相关联，特别是关于货币转换和附加保障等内容。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '0c6e851e-0afe-419e-8ab6-8eeccc557850'}
+
+===========结果37==========:
+内容: h) 提取的紅利╱現金儲備不可應用在不同保單持有人的保單。
+i) 提取紅利╱現金儲備時，客戶可選擇通过两种方法提取：
+
+  * 經濟支付服務（直接存入/轉入指定銀行帳戶或轉數快）。
+  * 紅利/現金儲備提取通知書將送交客戶或保險顧問。
+
+注意：这些信息是从上下文中直接提取出来的，用于回答问题。在实际使用中，不需要对这些内容进行编辑。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '509f45b0-095a-474d-baea-e17ea6610d90'}
+
+===========结果38==========:
+内容: c) 完成有關手續後，客戶可獲一份基金調配通知書。
+a) 客戶可更改日後保費╱投資分配比率。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '0cd0bc5d-a321-4859-bf8f-12b781e803a9'}
+
+===========结果39==========:
+内容: 5. 此個案所述的終期紅利及／或非保證入息金額  (視情況而定) 僅按現時的紅利預測而估算 。
+
+6. 終期紅利及／或非保證入息  (視情況而定) 並非保證及只用作說明及例子之用 。
+
+7. 实际派发之終期紅利及／或非保證入息金額  (視情況而定) 可能低於或高於此個案之數字  。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'b32abd51-14da-47a3-aa4f-e7099e383b37'}
+
+===========结果40==========:
+内容: a) 替換受保公司要員只適用於部分傳統保單，且該保单在签发时已列明此项选择权益。
+b) 適用於終身壽險及定期保險的更改规则均有分别。
+c) 有關規定包括更换保单申请表（表格T02）、保单持有人的书面申请、理财需要分析、风险承受能力问卷以及重要资料声明书及投保人声明书。适用于替换受保公司要员的情况有特定的要求和流程，例如必须以公司名义购买并由主要行政人员持有等条件。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'cca2c29e-eee8-4da6-ace6-a5b6b0164d9b'}
+
+===========结果41==========:
+内容: 以下是從提供的上下文中提取的與問題相關的部分：
+
+- 您需要一份家庭保障计划，还是寻找投资增值的保险产品？
+
+- 关于问卷和申请表格的例子，如“第一部分……新增业务……核保指引”下的表格U01和U31。
+
+这些信息表明在回答关于家庭保障计划或投资增值保险产品的具体需求时，可以参考提供的核保指引以及相关的问卷表单。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '637e6b46-626e-442d-84ae-ab12277a6446'}
+
+===========结果42==========:
+内容: Mary, aged 35, is a mother to a 5-year-old daughter named Jane. She aims to secure her family's future by making wise financial preparations.
+
+Additionally, Mary has plans for Jane's education and future opportunities. This includes considering sending Jane abroad for higher education.
+
+As Jane grows older and starts working, Mary wants to be able to提取被动收入, making her life more comfortable. In the long run, she aims to pass on the insurance policy to Jane through inheritance or another means.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '33118334-8df0-4dc7-8f48-8e9309b88efc'}
+
+===========结果43==========:
+内容: g) 在完成有關手續後，客戶可獲得一份更改保障額批註(適用於增加附加保障保障額)或保單合約(適用於增加基本計劃保障額)。  
+b) 增加基本計劃保額適用於︰萬利保障計劃  
+o 任何增加保障額但未有加大原總保額稱之為「還原」。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '3addadcd-d8bd-45d9-b458-3f55d623b4d5'}
+
+===========结果44==========:
+内容: Ted, a 55-year-old entrepreneur, is searching for a储蓄保险计划 that can help him diversify investments and establish a stable retirement income. Since Ted plans to inherit his wealth to his son Toby, the chosen plan should have long-term wealth growth potential.
+
+After careful consideration, Ted decides to投保 "宏摯傳承保障計劃" (see footnote 22 and reference 5).
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '499e1cab-f651-4dde-afdd-893cd291284c'}
+
+===========结果45==========:
+内容: - 您需要一份家庭保障计划，还是寻找投资增值的保险产品？
+- 这个计划允许您选择更改受保人，使其成为您的另一位亲人。
+- 例如，您可以为自己投保该计划，并将受保人更改为子女，从而传承财富给后代（见注14）。
+- 同时，他们还提供各种灵活的增值服务，确保您的财富代代相传。
+- 在身故情况下，您可以选择指定另一名后备受保人，以便在原受保人身故后接任。
+- 这样一来，保单将继续生效，并且所有利益都将得以保留（见注15）。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '76aca3d7-6ccd-4159-a265-bdb2f178bdff'}
+
+===========结果46==========:
+内容: The context provided includes information about various insurance plans, their features, and some specific plan names. However, the question is asking for a distinction between family保障 plans and investment增值的保险 products.
+
+From the extracted parts of the context, none directly answer the question. If no part of the context is relevant to answer the question, the response would be:
+
+NO_OUTPUT
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '5a867f3c-ce44-4518-a90d-af0e6a1708e0'}
+
+===========结果47==========:
+内容: a) "靈活投資寶''、「萬利保障計劃」及「宏利精選投資保」的每次最少降低保額為10,000 美元。
+
+b) 降低保額可能带来的影响包括维持保費率手冊最低规定的按期保費金额不变，以及对于特定保险产品如「萬利保障計劃」，按期保費不可少于可获佣金保費。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'b1e6d45a-9e77-4420-a063-cdd6776f98ff'}
+
+===========结果48==========:
+内容: "核保部提出的其他要求：1. 如受保人於所有公司包括此申請的投保總額超過 1,500,000 美元，請填寫「財政狀況問卷」（表格U01）。2. 若增加或提高家庭計劃成員的住院保障，請填寫「住院保障問卷（適用於家庭成員）」（表格U31）。"
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'a3d57884-fbc7-451a-b59e-c7f783961b02'}
+
+===========结果49==========:
+内容: b) 增加附加保障的規限：
+- 萬利保障計劃：每年只可增加一次。
+- 宏寶：增加了后的按期保費符合新的最低規定，但只能在上一次增加一年后再次增加。
+
+d) 增加部份仍須遵從以加各項的有關限制：
+- 举例说明：基本计划内多缴的首次费用绝不可用于支付之后因增加附加保障而产生的首次费用。例如，如果基本计划是灵活投资宝，首次费用在1995年6月13日收取，并于1995年8月13日到期，则后续增加附加保障的首次费用不得用此之前的初次费用支付。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '19beeb76-78dc-45ce-9691-48e8b1beb624'}
+
+===========结果50==========:
+内容: "身心守護 預支保障 获取備用資金 危疾或精神健康問題 不單影響身體及情緒，亦對財務狀況構成壓力 我們明白當您可於最需要的時候及時獲得財務支援 是非常重要"
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'f7dd5a9d-8bf6-4883-91b8-f7d1164bdd68'}
+
+===========结果51==========:
+内容: - 关于更改红利运用方式的规定：从ManuTouch获取报价的特定申请表格，或更改保单申请表（表格T02）第二及四部份。
+- 红利运用方式的转换选项包括：递增保障、一年定期寿险并积存剩餘紅利、以及将剩餘紅利购买红利缴清增额保险等。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '9adf3e55-1a3f-4a2c-8f0d-7d8518b7e4fc'}
+
+===========结果52==========:
+内容: "您需要一份家庭保障计划，还是寻找投资增值的保险产品？"
+
+These parts of the context are relevant to the question as they inquire about the specific type of insurance plan required, either for protection or for investment purposes.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '12002fab-0478-41fa-a695-d532e9829d90'}
+
+===========结果53==========:
+内容: Sure, here's the extracted part of the context that is relevant to answer the question:
+
+"您需要一份家庭保障计划，还是寻找投资增值的保险产品？"
+
+This part specifies the options the user has for their insurance needs, which directly relates to the question.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'a8ef4a17-be2c-49b5-bc57-5091d4127b08'}
+
+===========结果54==========:
+内容: d) 延續附加保障
+
+e) 所需文件︰（这部分内容不直接回答问题，所以不需要提取）
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '7d52cb1e-5c7f-4edd-9c07-9908ff003914'}
+
+===========结果55==========:
+内容: None of the context is relevant to answer the question about needing a family保障 plan or searching for investment增值 insurance products. If none of the context applies, the answer would be NO_OUTPUT.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '6c680130-b799-49f3-8cdc-fa7d591ccc3d'}
+
+===========结果56==========:
+内容: "傲富投資理财計劃及傲峰定 期投資計劃"
+
+This part of the context is relevant to answer the question as it mentions insurance plans that could be either for a family保障 plan or investment增值.
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '8ae7a1e5-693b-428d-968d-75154746f014'}
+
+===========结果57==========:
+内容: c) 有關規定：  
+- 要填写特定申请表格（如ManuTouch提供的）。
+- 更改保单申请表（表格T02）及相关文件。
+- 须提交保理财需要分析（如有适用者）。
+- 如果是内地人士在香港购买人身寿险，还需提供重要资料声明书等文件。
+- 根据新的保障额可能需提供更多健康资料，甚至可能需要进行身体检查。
+
+d) 根據新的保障額可能需遞交更多的健康資料，甚至須進行身體檢查。  
+
+e) 更改後的保障額和保費金額需符合保費率手冊上的最高規定。  
+
+f) 更改生效日期：  
+- 若为增加基本计划保障额，更改生效日期应为保单周年日，并须在保单签发后六个月内提出申请。
+- 若为增加附加保障保障额，更改生效日期应为下一个月结日。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '30e0393d-78e0-454d-a775-bce26832dead'}
+
+===========结果58==========:
+内容: - '非保证入息' 指应支付的非保证入息。
+- '计划' 在此处是指包含在本保单中的特定保险保障。
+- '保费缴付期' 指需要支付保单保费的年度。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保單條款_2024_04.md', 'source_file': '宏摯傳承保單條款_2024_04.md', 'uuid': '382e351e-fe25-4c3b-986f-ee2baf49e95e'}
+
+===========结果59==========:
+内容: "若需要一份家庭保障计划，需要填写‘懷孕保障問卷’（表格U43）并附上与‘我的智愛女性附加保障 – 懷孕保障’建议书摘要的复印件。"
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'acf9f9f6-5f9e-4841-9f65-08ac6cbc3c99'}

@@ -1,0 +1,251 @@
+生成的拓展问题:
+1. 1. 您想了解的是各类保险的具体产品吗？
+2. 2. 对于购买保险的需求，市场上主要有哪些保险品种呢？
+3. 3. 您对保险产品类型感兴趣吗？能否详细介绍一下涵盖的种类？
+4. 4. 想要获取全面保险产品的清单吗？请告诉我您的需求。
+
+检索结果:
+
+===========结果1==========:
+内容: a) 在客户可行使"备用保障权益"前1个月，公司会向客户发出邀请信重申保障权益。
+b) 客户可以选择购买另一份最相近的可用行使"备用保障权益"的疾病保障/附加保障。
+c) 可供投保的疾病产品。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'f0740402-474e-404c-9d75-efa4d72a2017'}
+
+===========结果2==========:
+内容: 保险产品举例:
+- '現金扶危附加保障」计划于2017年8月1日签发。
+- '活耀人生危疾保2」计划于2020年8月1日签发。
+
+请注意，这些信息是直接从上下文中提取的，并未经编辑。
+元数据: {'source': 'D:/desktop/code/data\\活耀人生危疾保-产品手册.md', 'source_file': '活耀人生危疾保-产品手册.md', 'uuid': 'ba54cf0c-9a7a-4195-8420-0feabf2eb728'}
+
+===========结果3==========:
+内容: 1. 複雜手術表：這部分提到了59種複雜手術，这些手术必须由专科医生确认并作为必要的医疗服务和/或手术服务。
+
+2. 保障範圍：这部分说明了保险产品的保障范围，即涵盖的複雜手術類型。
+元数据: {'source': 'D:/desktop/code/data\\守护无间危疾保 保单条款_2022_07.md', 'source_file': '守护无间危疾保 保单条款_2022_07.md', 'uuid': '2199378a-8871-4989-bf6f-a7193f8fa275'}
+
+===========结果4==========:
+内容: 保單貸款是保險產品中的一种，顧名思義，它讓投保人能夠從自己的保單中借取一定的现金。但需要注意的是，贷款会减少保单的身故赔偿和退保价值，并且需要支付利息。
+
+自动贷款代缴保费（不适用于整付保费的保单）则是一种服务，保险公司可能会提供这样的服务，帮助客户自动从贷款账户中扣除保費，以确保保單的有效性。但这类服务通常是有条件的，比如借款金额和贷款期限必须符合保险公司的要求。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '50f6bd68-6a6a-4c36-ad57-4951bbdca7d5'}
+
+===========结果5==========:
+内容: 1. "續保率 – 包括其他保單持有人自願終止其保單（不繳交保費 、 全數退保及部分退保）， 以及其對投資項目的相應影響。"
+
+2. "任何已缴付的保費會成為宏利資產的一部分。因此，您將承受本公司的信貸風險。"
+
+3. "本公司的財政狀況或會影響其履行保單的責任的能力。这涉及到货币风险，因为公司信贷状况的变化可能影响保单收益或者偿付能力。"
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'de5e1ae6-e2a8-48cc-8539-4b8d7fb39098'}
+
+===========结果6==========:
+内容: 固定收入资产如政府债券和企业债券主要投资于美国和亚洲市场，需要处理货币对冲以抵销汇率波动影响。
+
+非固定收入资产包括公募股票、私募股票和房地产等，可以投资于与保单货币不同的资产，以从多元化投资中受益。
+
+实际投资会根据购入资产时的市场时机而定，可能会有所不同于预期资产组合。投资策略会根据市况和经济前景变化。
+
+如有重大投资策略变更，保险公司将通知您相关变更、原因以及对保单的影响。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '6c680130-b799-49f3-8cdc-fa7d591ccc3d'}
+
+===========结果7==========:
+内容: The context provided discusses a wealth传承 plan that allows individuals to choose a secondary beneficiary, in case the primary beneficiary passes away. 
+
+This plan also offers various flexible增值服务 to ensure the continuation of wealth transmission across generations.
+
+Specifically mentioned points for reference:
+
+- nominate another backup beneficiary
+- if the primary beneficiary dies, the backup can become the new beneficiary
+- provision of flexible增值服务 for wealth传承
+- mention of options for payment in case of a death benefit claim
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '76aca3d7-6ccd-4159-a265-bdb2f178bdff'}
+
+===========结果8==========:
+内容: > 信贷风险
+>
+> 您将承受本公司的信贷风险，因为已缴付的保費会成为宏利资产的一部分。
+
+> 注意：
+> 这部分提到了货币风险，但提供的上下文主要是关于信贷风险。因此，对于货币风险的具体内容，在这个上下文中并未提取到。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'de5e1ae6-e2a8-48cc-8539-4b8d7fb39098'}
+
+===========结果9==========:
+内容: 以下是從提供的上下文中提取的、與個人投資相關的保险产品申请表格和要求的部分：
+
+- 特定申请表格：对于通过ManuTouch获取报价的特定情况，需要填写特定的申请表格。
+
+- 保单申请表（表格T02）：用于更改保单的基本信息。
+
+- 投保人声明书及重要资料声明书（如适用）：投资相关计划可能需要这些声明以确认提供的资料准确无误。
+
+- 风险承受能力问卷（如适用）：根据个人的风险承受能力和投资目标来评估适宜的保险产品。
+
+- 其他要求：例如，如果投保人的总保险额度超过某个限制，就需要填写特定的财务状况问卷表格（U01）。
+
+总结：这些申请表格和要求部分反映了在个人投资领域，保险公司可能需要进行的一些核保程序，以确保提供的保险产品适合客户的财务状况和风险承受能力。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '637e6b46-626e-442d-84ae-ab12277a6446'}
+
+===========结果10==========:
+内容: 以下是提取的关于个人投资保险产品选择的几部分信息：
+
+- **保证现金价值加非保证终期红利**：这是保险产品的类型之一，通常包括一定的保值功能和可能的分红收益。
+
+- **应付并已缴的保費總額**：这部分指的是如果投保人在整个保险期间内按照计划缴纳保费，保险公司将支付的总保额。
+
+- **附加保障加倍安心**：这表明除了基本的保险产品外，还可以额外选择附加保障服务，如额外的人寿保障、住院保障等。
+
+- **意外身故额额外保障**：这部分提供的是在特定条件下（如前5个保单年度内因意外身故）保险公司提供的额外赔偿金额。
+
+这些信息对于回答关于个人投资中的保险产品选择的问题非常相关。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'a8ef4a17-be2c-49b5-bc57-5091d4127b08'}
+
+===========结果11==========:
+内容: - "醫生"指獲取西医学历的注册医生，提供医疗及外科服务。
+- "生活守護保障"是保险产品的一个概念，在条款中具体定义。
+- "早期危疾"和"晚期護理"是保险保障范围内的特定条件或服务。
+- "緩接期"是指某些保险产品的转换期间，该期间的详细定义在相关章节中给出。
+
+请注意，这些信息基于提供的上下文，可能需要进一步解读以适应具体问题。
+元数据: {'source': 'D:/desktop/code/data\\守护无间危疾保 保单条款_2022_07.md', 'source_file': '守护无间危疾保 保单条款_2022_07.md', 'uuid': 'f9fd66dd-5479-406c-b8f8-45f4663b5080'}
+
+===========结果12==========:
+内容: Here are the extracted relevant parts from the context that answer the question:
+
+3. 您对健康保险了解多少？
+
+提取：我们明白当您可以在最需要的时候及时获得财务支持时是非常重要的。
+
+4. 能否推荐几种主要类型的产品？
+
+提取：没有直接的产品推荐，但提到了理解当在需要时能获得财政支援的重要性。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'f7dd5a9d-8bf6-4883-91b8-f7d1164bdd68'}
+
+===========结果13==========:
+内容: Context parts relevant to answer the question:
+
+a) "於可使「備用保障權益」前1個月，公司會向客戶發出邀請信重申有關之保障權益。"
+
+b) "客戶可購買另一份可供行使「備用保障权益」而最相近的危疾保障╱附加保障。"
+
+These parts of the context provide information about how to exercise the '备用保障权益' and refer to purchasing additional coverage for that purpose.
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'f0740402-474e-404c-9d75-efa4d72a2017'}
+
+===========结果14==========:
+内容: Context:
+
+- Discussing various types of health insurance plans
+- Mentioning specific plan examples like Independent Crisis Plans,卓越保障计划,精婴21保障计划
+
+Relevant parts for answering the question:
+
+- "基本計劃" - This refers to fundamental health insurance plans.
+- "附加保障" - These are additional benefits or coverage options that can be added to a basic plan.
+- Plan examples like "Independent危疾計劃" and "卓越保障計劃" - These are specific types of health insurance plans mentioned in the context.
+
+*Note: The original HTML table was not included in the provided text. Therefore, any images or specific details from the table would need to be extracted separately if available.*
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '5a867f3c-ce44-4518-a90d-af0e6a1708e0'}
+
+===========结果15==========:
+内容: 「指定疾病」指根据「指定疾病定义」所述的精神状况和/或疾病。
+
+「医生」指获取西方医学学士学位，……的注册医生……
+
+「缓接期」指在下列日子（以较晚者为准）起计的 90 天内：……的日期……
+
+「香港」指香港特别行政区。
+
+「入息支付方式」指非保证入息的支付频率，即每年或每月。
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保單條款_2024_04.md', 'source_file': '宏摯傳承保單條款_2024_04.md', 'uuid': 'ff9318a4-b36b-4da4-b5ed-988e83188554'}
+
+===========结果16==========:
+内容: Mary, aged 35, is a mother to a 5-year-old daughter, Jane. She aims to secure the family's financial future and provide for Jane's education.
+
+For Jane's overseas education and future career support, Mary decides to invest in the "宏摯傳承保障計劃" insurance product. This plan likely includes provisions for tuition payments, potential disability coverage, and long-term wealth accumulation strategies.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '33118334-8df0-4dc7-8f48-8e9309b88efc'}
+
+===========结果17==========:
+内容: 透过安枕无憂服务，您可以指定一位家人（「指定人士」）代您执行下列其中一项预设的保单管理指示：如您在保单生效期间在精神和/或身体上丧失行为能力，该指示将生效（见注11），确保您的挚爱家人在困难时期获得周到的预先安排。 
+
+# 选项1 – 转移保单所有权
+转移保单所有权给指定人士。
+
+# 8 财富灵活世代承传
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '773d4c37-7236-48cd-8b95-a1e40a610f75'}
+
+===========结果18==========:
+内容: The context provided contains information about a financial plan that allows individuals to transfer their wealth to another family member, typically a child. This plan also offers flexibility in terms of增值服务 and has provisions for backup beneficiaries in case the original beneficiary passes away.
+
+Relevant Extracts:
+1. "因此，您自然希望确保您的财富能够延續一生甚至世代承傳。"
+2. "同時，我們更提供各種靈活的增值服務，確保您的財富代代承傳。"
+3. "若現任受保人突然身故，後備受保人可成為新受保人。"
+4. "因此，保單將繼續生效，而所有利益將得以保留（見註15）。"
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '76aca3d7-6ccd-4159-a265-bdb2f178bdff'}
+
+===========结果19==========:
+内容: The context provided does not contain any specific products for保障家庭经济. It rather offers general information on insurance and its potential to provide financial support during危困时期.
+
+If the question is asking about general types of insurance that could be used for this purpose, then the following relevant parts from the context can be extracted:
+
+- "預支保障"
+This suggests that insurance products offer预先支付的保障.
+
+- "獲取備用資金危疾或精神健康問題"
+This implies that insurance can serve as an emergency fund in cases of illness or mental health issues.
+
+However, if no specific product is mentioned in the context, then there would be NO_OUTPUT.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': 'f7dd5a9d-8bf6-4883-91b8-f7d1164bdd68'}
+
+===========结果20==========:
+内容: 1. "蓄保" - 提供门診附加保障，与家庭经济保障相关。
+
+2. "我的智愛女性附加保障及懷孕保障" - 适合希望保障家庭经济的女性，包含特定附加保障。
+
+3. "公務員保計劃" - 专为公務员设计的保险计划，可能包含现金扶危附加保障。
+
+综上所述，这些保险产品如“蓄保”和“我的智愛女性附加保障及懷孕保障”，都可以在一定程度上提供家庭经济保障服务。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '96101de4-25d7-4eff-8358-eaaf42eccb2c'}
+
+===========结果21==========:
+内容: 3. Do you know whether the deceased policyholder/insured held other policies in other insurance companies? If so, please give the name of the insurer( s) and amount( s) of benefits provided.
+
+This part of the context is relevant to answer the question about the deceased policyholder's potential holdings in other insurance companies.
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_理赔_2024_01.md', 'source_file': '电子行政运作手册_理赔_2024_01.md', 'uuid': '461ac07b-fccf-49f9-8e73-bcfe157a6da2'}
+
+===========结果22==========:
+内容: Context Extracted Parts:
+
+1. **Mary's situation**: Mary is a 35-year-old mother of a 5-year-old daughter, Jane.
+
+2. **Goals**: Mary aims to prepare for her family's future, ensure Jane receives education abroad, and generate passive income for herself after Jane starts working.
+
+3. **Insurance decision**: As a result of these goals, Mary decides to投保 the "宏摯傳承保障計劃" in order to achieve her financial objectives and secure her family's legacy.
+元数据: {'source': 'D:/desktop/code/data\\宏摯傳承保障計劃_产品彩页.md', 'source_file': '宏摯傳承保障計劃_产品彩页.md', 'uuid': '33118334-8df0-4dc7-8f48-8e9309b88efc'}
+
+===========结果23==========:
+内容: a) 在行使"備用保障权益"前1個月，公司会向客户发送邀請信重申保障权益。
+b) 客户可以选择购买另一份最相近的可用于行使"備用保障权益"的疾病保障或附加保障产品。
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': 'f0740402-474e-404c-9d75-efa4d72a2017'}
+
+===========结果24==========:
+内容: The context provided doesn't contain a specific scenario where someone needs to purchase insurance products. However, it does outline various procedures and requirements related to insurance policies.
+
+If the question is asking about general decision-making processes for purchasing insurance, the answer would likely be:
+
+1. Identify the need: Determine whether an individual or business requires protection from certain risks (e.g., health, property, liability).
+
+2. Research options: Investigate different types of insurance policies available (e.g., life, health, auto, homeowner).
+
+3. Assess coverage and costs: Evaluate each policy's coverage for your specific needs and compare prices.
+
+4. Consult with an insurance professional: If necessary, seek advice from a licensed insurance agent or broker who can guide you through the process.
+
+5. Make a decision and purchase the policy: Once you have evaluated all the factors and made a decision, proceed to buy the policy through the preferred channel (e.g., online, phone).
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_保单行政_2023_10.md', 'source_file': '电子行政运作手册_保单行政_2023_10.md', 'uuid': '1c1eefb7-8dd6-4bf4-a033-b6decc19b545'}
+
+===========结果25==========:
+内容: 9. At the time when the application was taken, what particulars relating to the health of the deceased policyholder/insured could you notice? For example, did the client look unwell but claim good health. What other details of behaviour or health you may noticed at that time?
+元数据: {'source': 'D:/desktop/code/data\\电子行政运作手册_理赔_2024_01.md', 'source_file': '电子行政运作手册_理赔_2024_01.md', 'uuid': '4738db8e-b1c2-414d-a76f-d7f4f6033df8'}
