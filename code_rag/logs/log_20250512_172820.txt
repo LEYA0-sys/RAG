@@ -1,0 +1,18 @@
+INFO:root:日志系统已初始化
+INFO:datasets:PyTorch version 2.6.0 available.
+d:\desktop\code\test.py:10: LangChainDeprecationWarning: The class `HuggingFaceBgeEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  embeddings = HuggingFaceBgeEmbeddings(
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-large-zh-v1.5
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+INFO:faiss:Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+['什么是宏利环球货币保障计划？', '保单的身故赔偿如何计算？', '保单支持哪些货币？', '如何行使终期红利锁定权益？']
+['这是一款分红型终身人寿保险计划，提供身故赔偿、意外身故赔偿及现金价值积累功 能，支持多币种转换，并包含终期红利等非保证利益。', '身故赔偿为以下两者的较高者：(a) 表格所示现金价值 + 终期红利（如有）；或 (b) 所 有已缴保费总和。若受保人在首5年内意外身故，还可额外获得意外身故赔偿（上限为125, 000美元或等值货币）。', '支持美元、港币、人民币、澳元、加元、英镑、新加坡元等，且可从第3个保单周年日 起申请货币转换。', '从第15个保单周年日起，保单持有人可申请将终期红利的最高50%锁定为累积已锁定终 期红利，需在31日内提交书面申请，锁定后不可撤回']
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-base-zh-v1.5
+Traceback (most recent call last):
+  File "d:\desktop\code\test.py", line 105, in <module>
+    test_retrieval_effectiveness(test_queries, correct_answers, k=3)
+  File "d:\desktop\code\test.py", line 81, in test_retrieval_effectiveness
+    correct_answer_embeddings = calculate_embeddings(correct_answers)
+NameError: name 'calculate_embeddings' is not defined

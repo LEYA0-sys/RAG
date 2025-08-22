@@ -1,0 +1,27 @@
+INFO:root:日志系统已初始化
+d:\desktop\code\vector_database.py:5: LangChainDeprecationWarning: Importing HuggingFaceBgeEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceBgeEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import HuggingFaceBgeEmbeddings
+Traceback (most recent call last):
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_community\document_loaders\text.py", line 42, in lazy_load
+    with open(self.file_path, encoding=self.encoding) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\desktop\\code\\data\\宏利環球貨幣保障計劃 保單條款_2022_05.md'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\desktop\code\vector_database.py", line 8, in <module>
+    from split.single_split import split_doc
+  File "d:\desktop\code\split\single_split.py", line 16, in <module>
+    documents=loader.load()
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_core\document_loaders\base.py", line 32, in load
+    return list(self.lazy_load())
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_community\document_loaders\text.py", line 58, in lazy_load
+    raise RuntimeError(f"Error loading {self.file_path}") from e
+RuntimeError: Error loading D:\desktop\code\data\宏利環球貨幣保障計劃 保單條款_2022_05.md

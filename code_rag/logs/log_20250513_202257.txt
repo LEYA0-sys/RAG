@@ -1,0 +1,37 @@
+INFO:root:日志系统已初始化
+d:\desktop\code\vector_database.py:5: LangChainDeprecationWarning: Importing HuggingFaceBgeEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceBgeEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import HuggingFaceBgeEmbeddings
+INFO:root:Splitting documents with chunk_size=400, overlap=40
+INFO:root:Found existing cache. Loading...
+INFO:root:Loaded 39 chunks from ./cache\split_400_40.json
+INFO:root:Loaded 7 documents from D:/desktop/code/data
+INFO:root:Splitting 7 documents...
+INFO:root:Found existing cache. Loading...
+INFO:root:Loaded 1038 chunks from ./cache\all_docs_split_400_40.json
+device: cpu
+d:\desktop\code\vector_database.py:47: LangChainDeprecationWarning: The class `HuggingFaceBgeEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  embeddings = HuggingFaceBgeEmbeddings(
+INFO:datasets:PyTorch version 2.6.0 available.
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-large-zh-v1.5
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+INFO:faiss:Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+Traceback (most recent call last):
+  File "d:\desktop\code\vector_database.py", line 112, in <module>
+    vector_db = update_faiss_vector_db(split_docs, store_path=os.path.join(output_dir, 'FAISS', 'bge_large_v1.5'), embeddings=embeddings)
+  File "d:\desktop\code\vector_database.py", line 91, in update_faiss_vector_db
+    vector_db = FAISS.from_documents([], embedding=embeddings)
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_core\vectorstores\base.py", line 847, in from_documents
+    return cls.from_texts(texts, embedding, metadatas=metadatas, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1044, in from_texts
+    return cls.__from(
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_community\vectorstores\faiss.py", line 1001, in __from
+    index = faiss.IndexFlatL2(len(embeddings[0]))
+IndexError: list index out of range

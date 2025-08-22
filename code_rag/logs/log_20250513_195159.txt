@@ -1,0 +1,59 @@
+INFO:root:日志系统已初始化
+INFO:datasets:PyTorch version 2.6.0 available.
+d:\desktop\code\test.py:10: LangChainDeprecationWarning: The class `HuggingFaceBgeEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  embeddings = HuggingFaceBgeEmbeddings(
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-large-zh-v1.5
+Traceback (most recent call last):
+  File "d:\desktop\code\test.py", line 10, in <module>
+    embeddings = HuggingFaceBgeEmbeddings(
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_core\_api\deprecation.py", line 221, in warn_if_direct_instance
+    return wrapped(self, *args, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\langchain_community\embeddings\huggingface.py", line 344, in __init__
+    self.client = sentence_transformers.SentenceTransformer(
+  File "D:\naconda\envs\ocr\lib\site-packages\sentence_transformers\SentenceTransformer.py", line 309, in __init__
+    modules, self.module_kwargs = self._load_sbert_model(
+  File "D:\naconda\envs\ocr\lib\site-packages\sentence_transformers\SentenceTransformer.py", line 1802, in _load_sbert_model
+    module = module_class(model_name_or_path, cache_dir=cache_folder, backend=self.backend, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\sentence_transformers\models\Transformer.py", line 81, in __init__
+    self._load_model(model_name_or_path, config, cache_dir, backend, is_peft_model, **model_args)
+  File "D:\naconda\envs\ocr\lib\site-packages\sentence_transformers\models\Transformer.py", line 181, in _load_model
+    self.auto_model = AutoModel.from_pretrained(
+  File "D:\naconda\envs\ocr\lib\site-packages\transformers\models\auto\auto_factory.py", line 571, in from_pretrained
+    return model_class.from_pretrained(
+  File "D:\naconda\envs\ocr\lib\site-packages\transformers\modeling_utils.py", line 279, in _wrapper
+    return func(*args, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\transformers\modeling_utils.py", line 4260, in from_pretrained
+    checkpoint_files, sharded_metadata = _get_resolved_checkpoint_files(
+  File "D:\naconda\envs\ocr\lib\site-packages\transformers\modeling_utils.py", line 1062, in _get_resolved_checkpoint_files
+    if not has_file(pretrained_model_name_or_path, safe_weights_name, **has_file_kwargs):
+  File "D:\naconda\envs\ocr\lib\site-packages\transformers\utils\hub.py", line 686, in has_file
+    response = get_session().head(
+  File "D:\naconda\envs\ocr\lib\site-packages\requests\sessions.py", line 624, in head
+    return self.request("HEAD", url, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\huggingface_hub\utils\_http.py", line 96, in send
+    return super().send(request, *args, **kwargs)
+  File "D:\naconda\envs\ocr\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\naconda\envs\ocr\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "D:\naconda\envs\ocr\lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "D:\naconda\envs\ocr\lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "D:\naconda\envs\ocr\lib\http\client.py", line 1377, in getresponse
+    response.begin()
+  File "D:\naconda\envs\ocr\lib\http\client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "D:\naconda\envs\ocr\lib\http\client.py", line 281, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\naconda\envs\ocr\lib\socket.py", line 716, in readinto
+    return self._sock.recv_into(b)
+  File "D:\naconda\envs\ocr\lib\ssl.py", line 1275, in recv_into
+    return self.read(nbytes, buffer)
+  File "D:\naconda\envs\ocr\lib\ssl.py", line 1133, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

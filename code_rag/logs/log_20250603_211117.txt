@@ -1,0 +1,32 @@
+INFO:root:日志系统已初始化
+d:\desktop\code\vector_database.py:5: LangChainDeprecationWarning: Importing HuggingFaceBgeEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceBgeEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import HuggingFaceBgeEmbeddings
+INFO:root:Found 7 markdown files in D:\desktop\code\data
+INFO:root:Processing file: D:\desktop\code\data\守护无间危疾保 保单条款_2022_07\守护无间危疾保 保单条款_2022_07.md
+INFO:root:Total chunks created for 守护无间危疾保 保单条款_2022_07.md: 159
+INFO:root:Processing file: D:\desktop\code\data\宏利環球貨幣保障計劃 保單條款_2022_05\宏利環球貨幣保障計劃 保單條款_2022_05.md
+INFO:root:Total chunks created for 宏利環球貨幣保障計劃 保單條款_2022_05.md: 45
+INFO:root:Processing file: D:\desktop\code\data\宏摯傳承保單條款_2024_04\宏摯傳承保單條款_2024_04.md
+INFO:root:Total chunks created for 宏摯傳承保單條款_2024_04.md: 70
+INFO:root:Processing file: D:\desktop\code\data\宏摯傳承保障計劃_产品彩页\宏摯傳承保障計劃_产品彩页.md
+INFO:root:Total chunks created for 宏摯傳承保障計劃_产品彩页.md: 82
+INFO:root:Processing file: D:\desktop\code\data\活耀人生危疾保-产品手册\活耀人生危疾保-产品手册.md
+INFO:root:Total chunks created for 活耀人生危疾保-产品手册.md: 334
+INFO:root:Processing file: D:\desktop\code\data\电子行政运作手册_保单行政_2023_10\电子行政运作手册_保单行政_2023_10.md
+INFO:root:Total chunks created for 电子行政运作手册_保单行政_2023_10.md: 288
+INFO:root:Processing file: D:\desktop\code\data\电子行政运作手册_理赔_2024_01\电子行政运作手册_理赔_2024_01.md
+INFO:root:Total chunks created for 电子行政运作手册_理赔_2024_01.md: 185
+INFO:root:Total chunks from all files: 1163
+INFO:root:All chunks merged and saved to ./cache/merged_chunks.json
+INFO:datasets:PyTorch version 2.6.0 available.
+Traceback (most recent call last):
+  File "d:\desktop\code\vector_database.py", line 12, in <module>
+    from split.semantic_splitter import all_chunks
+ImportError: cannot import name 'all_chunks' from 'split.semantic_splitter' (d:\desktop\code\split\semantic_splitter.py)

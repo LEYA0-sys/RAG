@@ -1,0 +1,14 @@
+INFO:root:日志系统已初始化
+INFO:datasets:PyTorch version 2.6.0 available.
+d:\desktop\code\test.py:9: LangChainDeprecationWarning: The class `HuggingFaceBgeEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  embeddings = HuggingFaceBgeEmbeddings(
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-large-zh-v1.5
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+INFO:faiss:Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+Traceback (most recent call last):
+  File "d:\desktop\code\test.py", line 57, in <module>
+    test_queries = [item["query"] for item in test_data]
+  File "d:\desktop\code\test.py", line 57, in <listcomp>
+    test_queries = [item["query"] for item in test_data]
+KeyError: 'query'
