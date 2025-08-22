@@ -1,0 +1,116 @@
+import json
+import requests
+import time
+from tqdm import tqdm
+from difflib import get_close_matches
+from opencc import OpenCC
+
+API_KEY = "2a2299dd95944956b69397a89113d5a7.GW5jR7NYhANOuGES"  
+API_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
+HEADERS = {
+    "Content-Type": "application/json",
+    "Authorization": f"Bearer {API_KEY}"
+}
+
+# 创建OpenCC对象，设置从繁体到简体的转换
+cc = OpenCC('t2s')
+
+def build_prompt(question, answer):
+    return f"""
+你是一位保险领域的资深专家，请对以下问答对进行评分，满分为5分。
+
+【问题】：{question}
+【回答】：{answer}
+
+请你从保险领域专业视角，根据uuid定位到QA对对应的文本块，然后进行比较并从以下几个方面评估给定的保险领域 QA 对的质量：
+
+1.准确性：判断问题和答案是否与保险专业知识、相关条款及给定文档内容高度一致，杜绝事实性错误。若答案与权威保险资料、行业标准规范相悖，或者对问题的表述偏离文档核心意思，则视为不准确。
+2.完整性：检查问题和答案是否全面覆盖关键要点。对于保险条款解读类问题，需涵盖条款核心内容、适用条件、限制范围等；理赔流程类问题，要包含从报案到赔付的主要步骤、所需材料等。若有关键环节缺失，则判定为不完整。
+3.清晰度：评估问题和答案是否清晰易懂，逻辑结构是否合理。在解释保险责任判定时，推理过程应依据合理逻辑从事故情况推导到责任归属；阐述保险产品特点时，各特点之间逻辑关系需清晰，避免出现逻辑混乱或跳跃的情况。
+
+
+请按以下格式回答：
+分数：X.X
+评语：......
+"""
+
+def score_qa_pair(question, answer):
+    prompt = build_prompt(question, answer)
+    data = {
+        "model": "glm-4",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.2
+    }
+    try:
+        response = requests.post(API_URL, headers=HEADERS, json=data)
+        if response.status_code == 200:
+            result = response.json()
+            return result["choices"][0]["message"]["content"]
+        else:
+            return f"请求失败: {response.status_code} - {response.text}"
+    except Exception as e:
+        return f"异常: {str(e)}"
+
+def find_best_matching_block(question, text_blocks, threshold=0.15):
+    # 将问题转换为简体字
+    question = cc.convert(question)
+    # 提取所有文本块的文本内容，并转换为简体字
+    block_texts = [cc.convert(block["content"]) for block in text_blocks]
+    # 使用difflib找到最匹配的文本
+    matches = get_close_matches(question, block_texts, n=1, cutoff=threshold)
+    
+    if matches:
+        best_match = matches[0]
+        # 找到匹配文本对应的索引
+        index = block_texts.index(best_match)
+        return text_blocks[index]["uuid"]
+    return "no_match"
+
+def process_testset(qa_file, text_blocks_file, output_file):
+    # 加载QA对文件
+    with open(qa_file, "r", encoding="utf-8") as f:
+        qa_list = json.load(f)
+    
+    # 加载文本块文件
+    with open(text_blocks_file, "r", encoding="utf-8") as f:
+        text_blocks = json.load(f)
+
+    results = []
+    
+    print("\n开始处理QA对评分和映射...\n")
+    
+    for item in tqdm(qa_list, desc="处理进度", unit="对"):
+        question = item.get("question", "")
+        answer = item.get("answer", "")
+        
+        # 获取评分
+        feedback = score_qa_pair(question, answer)
+        item["score_feedback"] = feedback
+        
+        # 找到最匹配的文本块
+        best_block_uuid = find_best_matching_block(question, text_blocks)
+        
+        # 记录结果
+        results.append(item)
+        
+        # 输出当前QA对的评分和映射关系
+        print("\n" + "="*50)
+        print(f"问题: {question[:80]}...")
+        print(f"答案: {answer[:40]}...")
+        print(f"评分结果: {feedback[:60]}...")
+        print(f"对应文本块UUID: {best_block_uuid}")
+        print("="*50 + "\n")
+        
+        time.sleep(2)  # 控制API请求频率
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
+    
+    print("\n所有问答评分和映射已完成，结果保存在：", output_file)
+
+# 调用函数，替换为你的实际文件路径
+process_testset(
+    r"D:\火力全开的项目实践\宏利 pdf 文件\测试集\测试集 2.json",      # QA对JSON文件路径
+    r"D:\火力全开的项目实践\宏利 pdf 文件\数据清洗与分块\all_docs_split_400_40(1).json",   # 文本块JSON文件路径
+    "qa_scored_with_blocks111.json"           # 输出文件路径
+)
